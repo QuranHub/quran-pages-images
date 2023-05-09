@@ -5,7 +5,7 @@
 
 ![QuranHub Banner Image](https://www.quranhub.app/image/quranhub_banner.png)
 
-**Images of the Quran pages for *Hafs* & *Warsh* recitations.**
+**Images of the Quran pages for *Hafs* & *Warsh* recitations as well as Tajweed. Provided with Aya locations data.**
 
 ## License
 [![GNU GPL-3.0 Logo](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
